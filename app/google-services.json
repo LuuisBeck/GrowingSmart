@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "999795110905",
+    "firebase_url": "https://gowing-smart.firebaseio.com",
+    "project_id": "gowing-smart",
+    "storage_bucket": "gowing-smart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999795110905:android:1908339ef091e960",
+        "android_client_info": {
+          "package_name": "com.example.h2ces.growingsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999795110905-e15epnm2jrul38jso0idit13ejl9nkub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.h2ces.growingsmart",
+            "certificate_hash": "c0763a671f2c94b51933096b635533f862967628"
+          }
+        },
+        {
+          "client_id": "999795110905-47ppddell09enqft7cijn5v4qjeg2t95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFEqwNG-GTtfNqiTtXP4im8G6oDrOdcoI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999795110905-47ppddell09enqft7cijn5v4qjeg2t95.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "999795110905-sphqfn03r5m49rq96v2ru5o4c35ubus5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.growingsmart.smartview"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
