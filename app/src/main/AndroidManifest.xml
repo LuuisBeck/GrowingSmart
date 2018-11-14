@@ -18,7 +18,10 @@
         </activity>
         <activity android:name=".PrincipalActivity" />
         <activity android:name=".DosActivity" />
-        <activity android:name=".TresActivity"></activity>
+        <activity android:name=".TresActivity" />
+        <activity
+            android:name=".GraphActivity"
+            android:label="@string/title_activity_graph"></activity>
     </application>
 
 </manifest>
